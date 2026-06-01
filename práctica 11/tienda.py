@@ -1,6 +1,6 @@
 print("*****************************************")
 print("**             BIENVENIDO A            **")
-print("**          LA TIENDA DE STANLEY     ** ")
+print("**          LA TIENDA DE ANTONIO       ** ")
 print("*****************************************")
 
 num_churos = 2
